@@ -1,0 +1,24 @@
+Question: What is artificial intelligence?
+Context: 
+    Artificial intelligence (AI) is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and animals. Leading AI textbooks define the field as the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals.
+    
+Answer: intelligence demonstrated by machines
+
+Question: What is the definition of AI?
+Context: 
+    Artificial intelligence (AI) is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and animals. Leading AI textbooks define the field as the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals.
+    
+Answer: intelligent agents
+
+Question: What does the code demonstrate in the summary?
+Context: 
+    This code demonstrates how to build a simple Question Answering system using a pre-trained BERT model. The model is fine-tuned on the SQuAD dataset, which enables it to answer questions based on any given text. The system takes two inputs: a book's context (a paragraph or excerpt) and a user-provided question. It tokenizes both inputs, runs them through the BERT model, and extracts the most likely answer. The result is printed and saved to a text file, which includes the question, context, and answer. This implementation provides a simple yet effective way to retrieve answers from large text sources, such as books.
+    
+Answer: how to build a simple question answering system
+
+Question: Name a historical site located in Latur?
+Context: 
+   Latur is a city in Maharashtra's Marathwada region, known for its Latur Pattern in education, agriculture, and historical sites like Kharosa Caves. It is a major producer of pulses, oilseeds, and sugarcane and is developing as an industrial and smart city. The city faced a devastating earthquake in 1993 but has since rebuilt significantly. Latur has good connectivity via road, rail, and air and is growing in the IT and food processing sectors.
+    
+Answer: kharosa caves
+
